@@ -22,3 +22,35 @@ Name the group as Admin and the user Mahamat is already created and I added him 
 Check and attach the policy name AdminstratorAccess to the group which can give a complete access to AWS resource in my account.
 ![image](https://github.com/user-attachments/assets/d85ba5f3-651a-4f0c-a244-d51ad2a5f930)
 
+Scroll down and clik create group
+
+![image](https://github.com/user-attachments/assets/f2911079-fce8-4c2d-a9d5-bb4ab0349338)
+Admin group sucessfully created, click view group to view group details.
+![image](https://github.com/user-attachments/assets/f6a2ecee-5eb3-4570-a569-0ea6b3196341)
+Now its time to create user. Click on user and then create user
+![image](https://github.com/user-attachments/assets/7e351e68-0448-4f30-9503-feac18445aee)
+Choose a user name and click next.
+![image](https://github.com/user-attachments/assets/e5223289-11af-49b4-80ea-5d5e9f0abb6e)
+
+Choose the first option and dont forget select Admin.
+![image](https://github.com/user-attachments/assets/76b024bd-8d8a-4cf5-a72b-fe315e959c1a)
+Clik next
+![image](https://github.com/user-attachments/assets/edbfd36f-c038-41c0-b042-32120ef9da0e)
+
+Clik on create user
+![image](https://github.com/user-attachments/assets/6d59d022-24be-4ef3-ad7f-101ec36ea7c6)
+Successfully created user Sara. Repeat the same process to create the remaining.
+![image](https://github.com/user-attachments/assets/02b2af41-9d5a-48ac-aaad-97d87de704e1)
+Now, it's time to create the Developer group. Navigate to user groupe and click on create group
+![image](https://github.com/user-attachments/assets/1db84c02-3004-4213-9bb2-606aa2246a06)
+Name the group as Developer
+![image](https://github.com/user-attachments/assets/abc6aca9-48c6-4c17-9bae-ce4ca9b5da11)
+Attach the following policies to the group Developer:
+#### AmazonEC2FullAccess, AmazonS3FullAccess and AmazonRDSFullAccess
+And click user group
+![image](https://github.com/user-attachments/assets/a0f14159-5092-4201-a0fe-b41a6854c415)
+Devoloper group si successfully created.
+![image](https://github.com/user-attachments/assets/6e58e529-55e0-4885-9c19-9e42170e2e3c)
+Let's add user to Developer
+![image](https://github.com/user-attachments/assets/0f8fa78f-64a0-4256-9afc-245bd58d90d6)
+
