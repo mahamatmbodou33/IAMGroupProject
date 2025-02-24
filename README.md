@@ -94,7 +94,7 @@ In this project, I am going to create IAM groups with specific access policies a
 ![Screenshot 2025-02-21 000048](https://github.com/user-attachments/assets/eb4c8d4e-3d4b-466a-88f4-088d4e81e7ef)
 ### Successfully added Antony_DevOps to both groups.
 ![Screenshot 2025-02-21 000237](https://github.com/user-attachments/assets/1111cb6d-4d47-46c3-8b10-9b9248fcf82d)
-### Now, we finished the first part of the project. Let's begin with the last part, which is about implementing and managing which user's security credentials. Security is very crucial in the cloud, it is best practice to assign security credentials and Multifactor authentication (MFA) to verify and authenticate the identity of every user that is accessing your resources in your AWS account. So with further due, let's assign credentials to the user. click on the user Sara.
+### Now, we finished the first part of the project. Let's begin with the last part, which is about implementing and managing each user's security credentials. Security is very crucial in the cloud, it is best practice to assign security credentials and Multifactor authentication (MFA) to verify and authenticate the identity of every user that is accessing your resources in your AWS account. So without further due, let's assign credentials to the user. click on the user Sara.
 ![Screenshot 2025-02-21 082316](https://github.com/user-attachments/assets/3137395d-41ce-4557-ae93-b2a4323683ce)
 ### Click on security credentials and Enable console access
 ![Screenshot 2025-02-21 082432](https://github.com/user-attachments/assets/0551978e-3929-4462-b1b4-6ebc584d6f0d)
@@ -103,5 +103,13 @@ In this project, I am going to create IAM groups with specific access policies a
 ### Click on Download .csv file and close the window.
 ![Screenshot 2025-02-21 082603](https://github.com/user-attachments/assets/b7007ae8-a785-416a-96c4-9a6ceeda88c4)
 ### Repeat the same process to create credentials for the remaining users.
+### Each has to assign Multifactor authentication (MFA). Click on the user Sara
+![Screenshot 2025-02-24 145215](https://github.com/user-attachments/assets/0d2dd0ec-e702-4a4f-8356-6a7567b4c250)
+### Click on Security credentials and Assign an MFA device.
+![Screenshot 2025-02-24 145308](https://github.com/user-attachments/assets/b12aea4f-c17a-4eac-87bd-b6a064abfae1)
+### Choose a name MFA device name. You have three options to assign MFA, but I'll go with the Authenticator app which is easier and cheaper than the others.
+![Screenshot 2025-02-24 145430](https://github.com/user-attachments/assets/bd341f01-b88a-47f0-8bc5-70a687c3a61e)
+### Follow those three steps and add MFA
+### We completed the project. This is a real-world project. Using AWS IAM Services, you can centrally manage permissions and control who can access your resources in your organization. Thanks for following along with me.  
 
 
